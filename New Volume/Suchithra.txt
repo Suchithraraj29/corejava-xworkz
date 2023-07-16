@@ -1,0 +1,169 @@
+java &javac
+
+1)  
+java is a high level  object oriented  programing  laungauge 
+
+    eg: class Namskara{
+        public static void main (String[]){
+          System.out.println("banni java kailiyona");
+}
+}
+javac is a compiler to compile the program 
+   2)  JDK,JRE,JVM
+  jdk:java development kit, JRE:java runtime environment , JVM:java virtual  machine
+      
+    jdk: the java delopment kit it contains the java virtual machine , and set of libraries ,
+        &development tools,java runtime environment 
+      and jdk also it compiles the progrram & also it's help to the execution purpose
+       JDK  exixt physically 
+
+    JRE: the java run time environment it complies the program and  also it check the syntax of program
+       JRE it's exist in physically 
+           
+      
+     Jvm:  java virtual machine it contains the set of libraries &  jvm it's doesn't exist physically in floader
+           
+
+3) Arrays: it's a container it's stores the similiar type of data values/ data type into a single interference
+     limitations of arrays:1. it's apply for only a similar type of data types
+                            2. 
+            sysntax: for(index=0 ; index<electronicDevice.length ; inex++ ){
+              System.out.println("list of electronicsDevoces"){        
+
+                        }
+                        }
+  4) Class: class defiens that it's the point where the program is starting & also it's contatin the class name
+the class name is very important in program because the program type to save the program we use the class name.
+
+ class name the fist letter must be in upper case
+eg: class:ElectronicDevice
+object:
+
+Signature of the class: the class is also present in the outside the main 
+& the out side the main we called as local variabel  
+
+5)              .java:                                              .class
+
+        1).java is used because the compile                         1) .class is not used in the run the program
+          the program & execution purpose                            2) .class file is used when the program is written the .class name is used 
+         2) it's used because the save file as .java                  3) to save the program same as the class file nmae as 
+          3) comile the program
+          4) run the program 
+
+  7) java is a high level object oriented programing launguage 
+
+9) variable is container it's the data values or varivale is a container it's the values 
+       Types
+     4types of varibales
+ local variable: the local variable is the inside the main 
+static variable: the loacl variable is the outside the main
+
+
+
+
+10)class variable
+it' s container it's store the valures
+11 data types types
+  they are two types of data types
+   1. non primitive
+    2.  primitive
+
+In non primitive they are 8 types are
+   double, int ,flag, char, boolean, 
+the non primitive data type it  contains the default value
+
+In prmitive
+ String
+the primitive data type it's doesn't contain any default value
+ 
+12 java features
+  1. java is secured
+  2. java is easy to understand 
+   3. any one can contribute
+  4. easy to comiple and easy to write the code
+ 5. main features is write once run anytime(WORA)
+ 
+
+13 base class all class
+14) methods and types
+   
+15) variavles , methods,arrays,methodoverloading
+    based on variables
+
+   class Bakkery{
+
+     static String biscuitName= "cream biscuit";
+     static String biscuitName1= "oreo";
+ static String biscuitName2= "chask-mask";
+ static String biscuitName3= "fiftyfifty";
+ static StringbiscuitName4= "unibic";
+ static StringbiscuitName5= "parlegy";
+ static String biscuitName6= "darkfantsy";
+
+ public static void main(String Biscuits[]){
+
+System.out.println("main statred");
+System.out.println("the list of biscuits are:");
+System.out.println( "the biscuitName is" + biscuitName);
+System.out.println( "the biscuitName1 is" + biscuitName1);
+System.out.println( "the biscuitName2 is" + biscuitName2);
+System.out.println( "the biscuitName3 is" + biscuitName3);
+System.out.println( "the biscuitName4 is" + biscuitName4);
+System.out.println( "the biscuitName5 is" + biscuitName5);
+System.out.println( "the biscuitName6 is" + biscuitName6);
+System.out.println("main ended");
+}
+}
+ 
+
+
+
+
+16) initialize and declare an arrays
+    class Hotelsharavathi{
+
+      static String FoodNames("palav", "vangibath" , "berayani", "rice bath", " setdosa" , "kabab" , " plane pakav" , " lemonrice" , "masaladosa");
+        public static void main (String foods[]){
+
+        System.out.println( "main  started");
+ System.out.println( "wlecome to the sharavth hotel");
+      System.out.println( " THE lis of foods are:");
+      System.out.println(FoodNames[]+ " " + 
+        FoodNames[]1+ " " + FoodNames[]2+ " " + 
+        FoodNames[]3+ " " + FoodNames[]4+ " " + 
+        FoodNames[]5+ " " + FoodNames[]6+ " " + 
+FoodNames[]7+ " " + FoodNames[]8+ " " + );
+ System.out.println( "main  ended");
+ System.out.println( "thank you visit again");
+}
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aptitude
+1. 37 
+2. 20 
+3.100  
+4.63
+5.21
+6.M 
+7.N
+8.FR
+9.abacb
+10. gfe
+11.3
+12. 25
+13.window
+14.earth
+15df
